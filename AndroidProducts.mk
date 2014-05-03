@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/maxwell2lite.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/full_maxwell2lite.mk

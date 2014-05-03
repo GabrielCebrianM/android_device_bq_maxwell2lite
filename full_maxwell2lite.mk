@@ -33,7 +33,7 @@ $(call inherit-product, device/bq/rockchip-common/device-common.mk)
 $(call inherit-product, vendor/bq/rockchip-common/rockchip-vendor.mk)
 
 # Set those variables here to overwrite the inherited values.
-PRODUCT_NAME := maxwell2lite
+PRODUCT_NAME := full_maxwell2lite
 PRODUCT_DEVICE := maxwell2lite
 PRODUCT_BRAND := bq
 PRODUCT_MODEL := bq Maxwell 2 Lite

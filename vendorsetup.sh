@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo cm_maxwell2lite-userdebug
+add_lunch_combo full_maxwell2lite-userdebug
